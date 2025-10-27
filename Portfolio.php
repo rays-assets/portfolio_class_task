@@ -1,6 +1,6 @@
 <?php
 
-	/* Esta es la clase solicitadaen el ejercicio */
+	/* Esta es la clase solicitada en el ejercicio */
 	class Portfolio {
 
 		/* Las propiedades */
@@ -312,5 +312,6 @@
 			return false;
 		}
 	}
+
 
 ?>
